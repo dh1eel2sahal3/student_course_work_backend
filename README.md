@@ -1,5 +1,19 @@
 # Student Course Work Management System
 
+## Team List (Guddiga Mashruuca)
+- **Class**: CA222
+- **Group Name**: Group_H
+- **Project Title**: Student_Course_Work_Management_System
+
+### Team Members:
+1. **C1220578** - Mohamed Farah Warsame
+2. **C1221062** - Abdiweli Mohamud Mohamed
+3. **C1220555** - Farah Abdikarim Sahal
+4. **C1220920** - Abdiwahab Salad Hirat
+5. **C1220802** - Abdirahan Ali Mohamed
+
+---
+
 Mashruucan waa nidaam lagu maamulo shaqooyinka koorsada ee ardayda (Student Course Work), kaas oo ka kooban Backend (Node.js) iyo Frontend (Flutter).
 
 ## Features (Astaamaha Nidaamka)
