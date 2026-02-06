@@ -1,0 +1,20 @@
+# Node backend
+node_modules/
+.env
+.vscode/
+
+# Flutter frontend
+flutter_frontend/.dart_tool/
+flutter_frontend/.flutter-plugins
+flutter_frontend/.flutter-plugins-dependencies
+flutter_frontend/.packages
+flutter_frontend/.pub-cache/
+flutter_frontend/.pub/
+flutter_frontend/build/
+flutter_frontend/android/app/debug
+flutter_frontend/android/app/profile
+flutter_frontend/android/app/release
+
+# OS files
+.DS_Store
+Thumbs.db
